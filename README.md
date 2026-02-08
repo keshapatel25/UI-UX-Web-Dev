@@ -1,2 +1,2 @@
 # UI-UX-Web-Dev
-A curated collection of my UI/UX and frontend web development projects, focusing on usability, accessibility, clean design, and responsive interfaces.
+Screen recordings showcasing my UI/UX and frontend web projects, focusing on interaction design, layout, responsiveness, and user flows.
